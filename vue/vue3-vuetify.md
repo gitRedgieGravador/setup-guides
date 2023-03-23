@@ -29,7 +29,7 @@ npm run dev
 ```install
 npm add vuetify
 ```
- create a vuetify file
+- create a vuetify file
 ```
 /* plugins/vuetify.js */
 import 'vuetify/styles'
@@ -51,12 +51,12 @@ export const vuetify = createVuetify({
 })
 
 ```
- Add mdi icons font
+- Add mdi icons font
 ```
 npm add @mdi/font
 ```
 
-Add vuetify and mdi icon font into main.js
+- Add vuetify and mdi icon font into main.js
 ```
 /** main.js */
 import { createApp } from 'vue'
