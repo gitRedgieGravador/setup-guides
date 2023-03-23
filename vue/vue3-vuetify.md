@@ -1,19 +1,22 @@
 ## Start a new project
-
+In this setup you will use 
+- [Vue.js 3](https://vuejs.org/guide/introduction.html) and framework
+- [Vuetify](https://vuetifyjs.com/en/getting-started/installation/) as UI Component and Icons
+- [Pinia](https://pinia.vuejs.org/introduction.html) as State management
 ### Create app
 ```sh
 npm init vue@latest
 ```
 ```
 ✔ Project name: … <your-project-name>
-✔ Add TypeScript? … No / Yes
-✔ Add JSX Support? … No / Yes
-✔ Add Vue Router for Single Page Application development? … No / Yes
-✔ Add Pinia for state management? … No / Yes
-✔ Add Vitest for Unit testing? … No / Yes
-✔ Add Cypress for both Unit and End-to-End testing? … No / Yes
-✔ Add ESLint for code quality? … No / Yes
-✔ Add Prettier for code formatting? … No / Yes
+✔ Add TypeScript? … No
+✔ Add JSX Support? … No
+✔ Add Vue Router for Single Page Application development? … Yes
+✔ Add Pinia for state management? … Yes
+✔ Add Vitest for Unit testing? … No
+✔ Add Cypress for both Unit and End-to-End testing? … No
+✔ Add ESLint for code quality? … Yes
+✔ Add Prettier for code formatting? … Yes
 ```
 ### Run your app
 ```
