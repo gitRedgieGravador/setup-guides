@@ -1,5 +1,4 @@
-## Start a new project
-In this setup you will use 
+## Guide for project with Vue, Vuetify and Pinia
 - [Vue.js 3](https://vuejs.org/guide/introduction.html) and framework
 - [Vuetify](https://vuetifyjs.com/en/getting-started/installation/) as UI Component and Icons
 - [Pinia](https://pinia.vuejs.org/introduction.html) as State management
